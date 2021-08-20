@@ -13,3 +13,10 @@
 Markdown:<br>
 https://www.markdownguide.org/cheat-sheet/<br>
 https://www.markdownguide.org/extended-syntax/
+
+### Note: <br>
+If anyone would like to contribute to this wiki, I am more then happy that you would.<br>
+
+<br>
+
+Cheers! 
