@@ -36,7 +36,7 @@ Scrapping Info
 | Monsters needed | Monster level | Total coins needed | Lv4 Profit | Lv9 Profit |
 | --------------- | ------------- | ------------------ | ---------- | ---------- |
 | 1 EPIC | 9 | 26K | 7,98K | 
-| 3 COMMON <br> 1 EPIC | 19	726K | 151K | 
+| 3 COMMON <br> 1 EPIC | 19	| 726K | 151K | 
 | 3 COMMON <br> 1 RARE <br> 1 EPIC | 29 | 3,72M | 749K | 
 | 3 COMMON <br> 3 RARE <br> 1 EPIC | 39 | 9,17M | 2,23M | 
 | 3 COMMON <br> 6 RARE <br> 1 EPIC | 49 | 27,1M | 5,93M | 
